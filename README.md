@@ -1,5 +1,5 @@
 # java
----sh
+```sh
 int c=12;
 
-sh
+```sh
